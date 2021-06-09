@@ -9,5 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=sxvv&theme=cobalt" />
 </a>
 <a href="https://github.com/SpencerApel/st">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=st&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&=st&theme=cobalt" />
+</a>
+<a href="https://github.com/SpencerApel/dotfiles/tree/master/.local/bin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&=st&theme=cobalt" />
 </a>
