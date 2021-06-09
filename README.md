@@ -5,7 +5,7 @@
 <a href="https://github.com/SpencerApel/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=dotfiles&theme=gruvbox" />
 </a>
-<a href="https://github.com/bachoseven/sxvv">
+<a href="https://github.com/SpencerApel/sxvv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=mimi&theme=gruvbox" />
 </a>
 <a href="https://github.com/SpencerApel/dotfiles/tree/master/.local/bin">
