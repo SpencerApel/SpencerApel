@@ -3,11 +3,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerApel&layout=compact&theme=cobalt)](https://github.com/SpencerApel/SpencerApel)
 
 <a href="https://github.com/SpencerApel/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=dotfiles&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=dotfiles&theme=cobalt" />
 </a>
 <a href="https://github.com/bachoseven/sxvv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=sxvv&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=sxvv&theme=cobalt" />
 </a>
 <a href="https://github.com/SpencerApel/st">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=st&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=st&theme=cobalt" />
 </a>
