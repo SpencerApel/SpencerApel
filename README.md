@@ -5,6 +5,6 @@
 <a href="https://github.com/SpencerApel/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=dotfiles&theme=cobalt" />
 </a>
-<a href="https://github.com/SpencerApel/sxvv">
+<a href="https://github.com/SpencerApel/st">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpencerApel&repo=mimi&theme=cobalt" />
 </a>
